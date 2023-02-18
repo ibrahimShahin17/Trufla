@@ -9,6 +9,7 @@ Automation project using selenium & testNg framework to:
 7. Checkout your order
 
 Dependencies
+
 operating system Win/Linux.
 IDE eclipse 
 Maven & Selenium Dependancy & TestNG framework
