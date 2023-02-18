@@ -10,11 +10,11 @@ Automation project using selenium & testNg framework to:
 
 Dependencies
 
-operating system Win/Linux.
-IDE eclipse
-Maven & Selenium Dependancy & TestNG framework
-Java programming language
-Chrome driver
-Executing program
-Project build depends on page object design pattern
-Run the scripts from the registeration.java test
+1. operating system Win/Linux.
+2. IDE eclipse
+3. Maven & Selenium Dependancy & TestNG framework
+4. Java programming language
+5. Chrome driver
+6. Executing program
+7. Project build depends on page object design pattern
+7. Run the scripts from the registeration.java test
