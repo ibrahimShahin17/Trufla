@@ -11,7 +11,7 @@ Automation project using selenium & testNg framework to:
 Dependencies
 
 operating system Win/Linux.
-IDE eclipse 
+IDE eclipse
 Maven & Selenium Dependancy & TestNG framework
 Java programming language
 Chrome driver
